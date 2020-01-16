@@ -1,0 +1,21 @@
+.root {
+  display: flex;
+
+  li {
+    list-style: none;
+
+    a {
+      display: block;
+      text-decoration: none;
+      padding: 5px 25px;
+      color: #ffff;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 18px;
+    }
+  }
+}
+
+.active {
+  background: #dd8945;
+}
