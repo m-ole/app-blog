@@ -13,8 +13,8 @@ const NavMenu = () => {
         </NavLink>
       </li>
       <li>
-        <NavLink activeClassName={active} to="/post">
-          Post
+        <NavLink activeClassName={active} to="/posts">
+          Posts
         </NavLink>
       </li>
       <li>

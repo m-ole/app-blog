@@ -1,11 +1,15 @@
 import React from "react";
-import ListPosts from "../modules/ListPosts";
 
 const Home = () => {
   return (
     <>
-      <h1>Posts</h1>
-      <ListPosts />
+      <h1>My blog</h1>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque
+        aspernatur autem minus esse magnam et, odit iste quod quam repellendus
+        excepturi reiciendis consequatur mollitia eos hic saepe facere, harum
+        eveniet.
+      </p>
     </>
   );
 };

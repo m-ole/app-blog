@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import NavMenu from "../../modules/NavMenu";
+import NavMenu from "./components/NavMenu";
 import styles from "./styles.module.scss";
 
 const Header = () => {

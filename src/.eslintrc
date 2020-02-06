@@ -4,6 +4,8 @@
   "plugins": ["prettier"],
 
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "import/no-unresolved": "off",
+    "import/no-extraneous-dependencies": "off"
   }
 }
